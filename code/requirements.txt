@@ -47,7 +47,7 @@ requests-futures==1.0.0
 six==1.14.0
 soupsieve==2.0
 tld==0.12.1
-tqdm==4.45.0
+tqdm==4.66.3
 traitlets==4.3.3
 urllib3==2.7.0
 wcwidth==0.1.9
